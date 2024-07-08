@@ -49,7 +49,7 @@
 
 - ### Development
 
-    - [개발 환경 데모](https://www-dev.to-be-healthy.site/)
+    - [개발 환경 데모](https://www.dev.to-be-healthy.site/)
 
 
 <br />
@@ -61,18 +61,23 @@
 1. BackEnd - Java(JDK 17), Spring Boot, JPA, Redis
 2. OS - Windows, macOS
 3. Library&API - KakaoLogin, NaverLogin, GoogleLogin, JavaMail, Firebase
-4. Document - Jira, ERD Cloud, Discord, Postman
+4. Document - Jira, ERD Cloud, Discord, Postman, Figma
 5. CI/CD - git, Jenkins
 6. DataBase - MySQL(v8.0)
 7. Server - AWS(EC2, Route 53, S3, CloudFront, Lambda), Docker
 8. Monitor - Actuator, Prometheus, Promtail, Loki, Grafana
 
+<br />
+
+- ### API 명세
+    - https://documenter.getpostman.com/view/16713698/2sA3e1CW6f
 
 <br />
 
 - ### 인프라
 
-    - Jenkins, Docker로 배포 자동화
+    - Docker Compose로 컨테이너 관리
+    - Jenkins를 활용한 배포 자동화
     <p align="center"><img src="https://github.com/ChaeRin-Im/to-be-healthy/assets/72774476/4bdcc0f6-6ca3-4408-8f79-68fe2380ba11" width="700"></p>
 
 
