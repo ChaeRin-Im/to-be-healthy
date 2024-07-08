@@ -61,8 +61,8 @@
 1. BackEnd - Java(JDK 17), Spring Boot, JPA, Redis
 2. OS - Windows, macOS
 3. Library&API - KakaoLogin, NaverLogin, GoogleLogin, JavaMail, Firebase
-4. Document - Jira, ERD Cloud, Discord
-5. CI - git, Jenkins
+4. Document - Jira, ERD Cloud, Discord, Postman
+5. CI/CD - git, Jenkins
 6. DataBase - MySQL(v8.0)
 7. Server - AWS(EC2, Route 53, S3, CloudFront, Lambda), Docker
 8. Monitor - Actuator, Prometheus, Promtail, Loki, Grafana
@@ -72,7 +72,8 @@
 
 - ### 인프라
 
-    .
+    - Jenkins, Docker로 배포 자동화
+    <p align="center"><img src="https://github.com/ChaeRin-Im/to-be-healthy/assets/72774476/4bdcc0f6-6ca3-4408-8f79-68fe2380ba11" width="700"></p>
 
 
 <br />
@@ -82,6 +83,6 @@
     - Docker network로 모니터링 시스템 내부망 사용
     <p align="center"><img src="https://github.com/ChaeRin-Im/to-be-healthy/assets/72774476/4e45db47-6a76-41ea-a6b7-e0fa0add1480" width="700"></p>
 
-    - Grafana로 사용량, 실시간 로그, 알림 확인
+    - Grafana로 CPU 사용량, 실시간 로그, 알림 확인
     <p align="center"><img src="https://github.com/ChaeRin-Im/to-be-healthy/assets/72774476/caac93a3-0fcd-4104-b76e-ab1ddc19a37e"></p>
 
