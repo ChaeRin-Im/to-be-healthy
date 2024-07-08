@@ -17,43 +17,29 @@
 
 ![건강해짐 배너 sns](https://github.com/to-be-healthy/FrontEnd/assets/102174146/d1682aea-4a3e-4c3e-84fc-9c55b3626547)
 
-### PT 스케줄 관리
 
-![건강해짐 배너 sns (1)](https://github.com/to-be-healthy/FrontEnd/assets/102174146/96784978-d903-47bf-832d-8433da311ae8)
+## 핵심 기능
 
-아직도 트레이너가 수기로 일정을 메모하고 카카오톡 메신저로 회원 관리를 하나요?
-
-건강해짐을 사용하면 트레이너는 헬스장 회원 스케줄 관리를 편하게 할 수 있어요.
-
-헬스장 회원도 미리 트레이너 스케줄을 확인하고 등록할 수 있어요.
-
-<br />
-
-### 체계적인 회원 관리
-
-![건강해짐 배너 sns (3)](https://github.com/to-be-healthy/FrontEnd/assets/102174146/05e70f40-4c75-4349-bfaa-fedc69cbc923)
-
-스케줄 관리 뿐만 아니라 헬스장 회원에 대한 체계적인 관리도 가능해요.
-
-회원에 대한 나만의 메모장, PT 피드백 그리고 수강권 관리까지!
-
-좀 더 세심하게 회원을 관리할 수 있어요.
+<p align="center">
+    <img src="https://github.com/to-be-healthy/FrontEnd/assets/102174146/96784978-d903-47bf-832d-8433da311ae8" width="330">
+    <img src="https://github.com/to-be-healthy/FrontEnd/assets/102174146/05e70f40-4c75-4349-bfaa-fedc69cbc923" width="330">
+    <img src="https://github.com/ChaeRin-Im/to-be-healthy/assets/72774476/13d25e34-2c91-437f-9020-1e33a63ad4a4" width="330">
+</p>
 
 <br />
 
-## 실행 방법
+## 설계의 주안점
 
-- ### Production
-
-    - [운영 환경](https://www.to-be-healthy.site/)
-
-- ### Development
-
-    - [개발 환경 데모](https://www.dev.to-be-healthy.site/)
-
+1. Spring Security, Oauth JWT, Redis를 사용한 로그인 시스템
+2. S3, CloudFront, Lambda 활용 이미지 리사이징
+3. Spring Event 기반의 알람 기능
+4. WebClient를 이용한 Non-Blocking & 비동기 HTTP 통신
+5. Pessimistic Lock을 활용한 동시성 해결
+6. AOP로 비지니스 로직 분리, 중복 코드 제거
+7. 스케줄링을 이용한 랭킹 산정
+8. Rest API 구현
 
 <br />
-
 
 ## 백엔드
 
