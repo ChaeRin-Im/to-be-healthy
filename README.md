@@ -4,7 +4,7 @@
     <h1 align="center">건강해짐</h1>
     <p align="center">피트니스 센터, 트레이너와 회원을 위한 일정 관리 앱</p>
     <br />
-    <p align="center">
+    
      
 <!--       .
       <a href="#">App</a> -->
