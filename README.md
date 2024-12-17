@@ -5,15 +5,7 @@
     <p align="center">피트니스 센터, 트레이너와 회원을 위한 일정 관리 앱</p>
     <br />
     
-     
-<!--       .
-      <a href="#">App</a> -->
-    </p align="center">
-</p>
-
-<div align="center">
     
-</div>
 
 <br />
 
