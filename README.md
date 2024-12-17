@@ -5,7 +5,7 @@
     <p align="center">피트니스 센터, 트레이너와 회원을 위한 일정 관리 앱</p>
     <br />
     <p align="center">
-      <a href="https://main.to-be-healthy.site/">웹 사이트</a>
+     
 <!--       .
       <a href="#">App</a> -->
     </p align="center">
@@ -13,11 +13,6 @@
 
 <div align="center">
     
-|테스트계정|아이디|비밀번호|
-|------|---|---|
-|트레이너|trainer|12345678a|
-|회원|student|12345678a|
-
 </div>
 
 <br />
